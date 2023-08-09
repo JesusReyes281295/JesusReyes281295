@@ -7,7 +7,7 @@
 <p align="center">
   📞 <a href="tel:+522311055891">+52 231-105-58-91</a> •
   📧 <a href="mailto:jesusreytru@gmail.com">jesusreytru@gmail.com</a> •
-  📍 16 Francia ST, Teziutlán, Puebla, MX, Postal Code 73880
+  📍 Puebla, MX, Postal Code 73880
 </p>
 
 <p align="center">
