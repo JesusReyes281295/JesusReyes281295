@@ -99,6 +99,9 @@
    - **Description**: Developed a local business directory platform enabling businesses to register, update their details, and connect with potential customers.
 
 ---
+![Jesus Reyes LinkedIn Cover](https://media.licdn.com/dms/image/D5616AQFiQnYEtnAv1A/profile-displaybackgroundimage-shrink_350_1400/0/1691576900041?e=1697068800&v=beta&t=ZxADIA3uE2-dc_n94s26tALa742DN4Q7MFm9VJdJAfo)
 
 
-<h4 align="center">I'm always eager to learn, explore, and make a difference. Let's connect and build something great together!</h4>
+
+
+
