@@ -31,7 +31,7 @@
 ## 📚 Educative Formation
 
 - **Teziutlán Technological University** | Teziutlan, Puebla, México (2014-2018)
-- **Languages**: English (Level B2), Spanish
+- **Languages**: English (Level C1), Spanish
 
 ---
 
