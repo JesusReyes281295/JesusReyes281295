@@ -20,10 +20,11 @@
 
 ## 💼 Work Experience
 
-1. **Full Stack Developer** at **Arkus Nexus S.A. de C.V.** | Tijuana, Baja California (June 2022 - July 2023)
-2. **Freelancer Web Developer** | (March 2022 - June 2022)
-3. **Web Developer** at **The Factory HKA México S.A. de C.V.** | Puebla, Puebla (January 2021 - June 2022)
-4. **Developer Junior** at **Grupo Lunma S.A. de C.V.SOFOM ENR** | Puebla, Puebla (June 2017 - December 2020)
+1. **Full Stack Developer** at **Apex Systems** | Guadalajara, Jalisco (Septiembre 2023 - Today)
+2. **Full Stack Developer** at **Arkus Nexus S.A. de C.V.** | Tijuana, Baja California (June 2022 - July 2023)
+3. **Freelancer Web Developer** | (March 2022 - June 2022)
+4. **Web Developer** at **The Factory HKA México S.A. de C.V.** | Puebla, Puebla (January 2021 - June 2022)
+5. **Developer Junior** at **Grupo Lunma S.A. de C.V.SOFOM ENR** | Puebla, Puebla (June 2017 - December 2020)
 
 ---
 
