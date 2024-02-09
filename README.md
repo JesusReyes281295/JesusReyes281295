@@ -11,7 +11,6 @@
 </p>
 
 <p align="center">
-  🐦 <a href="https://twitter.com/JesusReyesTruj1">Twitter</a> •
   💼 <a href="https://www.linkedin.com/in/jesusreytru/">LinkedIn</a> •
   🐱 <a href="https://github.com/JesusReyes281295">GitHub</a>
 </p>
